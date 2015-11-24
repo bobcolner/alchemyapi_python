@@ -31,11 +31,9 @@ To get started and run the example, simply:
 
 	git clone https://github.com/AlchemyAPI/alchemyapi_python.git
 	cd alchemyapi_python
-	python alchemyapi.py YOUR_API_KEY
-	python example.py
 
 
-Just replace YOUR_API_KEY with your 40 character API key from AlchemyAPI, and you should be good to go.
+Just replace set the Enviroment variable "ALCHEMY_API_KEY" with YOUR_API_KEY and you should be good to go.
 
 	
 	
