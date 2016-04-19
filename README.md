@@ -1,6 +1,8 @@
 # alchemyapi_python #
 
-A sdk for AlchemyAPI using Python
+A sdk for AlchemyAPI using Python. 
+
+Modified to use an enviroment variable ("ALCHEMY_API_KEY") for authentication with YOUR_API_KEY.
 
 
 ## AlchemyAPI ##
@@ -31,9 +33,3 @@ To get started and run the example, simply:
 
 	git clone https://github.com/AlchemyAPI/alchemyapi_python.git
 	cd alchemyapi_python
-
-
-Just replace set the Enviroment variable "ALCHEMY_API_KEY" with YOUR_API_KEY and you should be good to go.
-
-	
-	
